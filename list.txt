@@ -1,0 +1,27 @@
+AI
+Arduino
+C#
+C
+C++
+CSS
+Deep Learning
+GIT
+Ham Radio
+HTML
+Java
+JavaScript
+Linux
+Machine Learning
+Microbit
+Microsoft Azure
+Microsoft Q#
+Network
+NodeJs
+NoSQL
+PHP
+Power BI
+Python2
+Python3
+Raspberry Pi
+SQL
+Windows
